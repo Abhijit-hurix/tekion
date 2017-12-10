@@ -2,7 +2,7 @@
 
 
 
-### Please follow below steps to run the server and client side of the application:
+### Please follow below steps to run the client side of the application:
 
 ```
 > git clone https://github.com/Abhijit-hurix/tekion.git
